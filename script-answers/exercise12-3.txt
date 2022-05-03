@@ -1,3 +1,18 @@
 Script started on Tue May  3 16:07:44 2022
 [1m[7m%[27m[1m[0m                                                                                                 ]2;hossein.movahed@M-64XJTF:~/Desktop/test/fullstack/phone-book/part12-containers-applications/script-answers]1;..cript-answers[0m[27m[24m[J[01;32m➜  [36mscript-answers[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hddocker container cp ./index.js hello-node:usr/src/app/index.js [?1l>[?2004l
-]2;docker container cp ./index.js hello-node:usr/src/app/index.js]1;docker[1m[7m%[27m[1m[0m                                                                                                 ]2;hossein.movahed@M-64XJTF:~/Desktop/test/fullstack/phone-book/part12-containers-applications/script-answers]1;..cript-answers[0m[27m[24m[J[01;32m➜  [36mscript-answers[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hnnode
+]2;docker container cp ./index.js hello-node:usr/src/app/index.js]1;docker[1m[7m%[27m[1m[0m                                                                                                 ]2;hossein.movahed@M-64XJTF:~/Desktop/test/fullstack/phone-book/part12-containers-applications/script-answers]1;..cript-answers[0m[27m[24m[J[01;32m➜  [36mscript-answers[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hnnode  n  ggit remote[?1l>[?2004l
+]2;git remote]1;gitorigin
+[1m[7m%[27m[1m[0m                                                                                                 ]2;hossein.movahed@M-64XJTF:~/Desktop/test/fullstack/phone-book/part12-containers-applications/script-answers]1;..cript-answers[0m[27m[24m[J[01;32m➜  [36mscript-answers[00m [01;34mgit:([31mmain[34m)[00m [K[?1h=[?2004hggit status[?1l>[?2004l
+]2;git status]1;gitOn branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   exercise12-3.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                 ]2;hossein.movahed@M-64XJTF:~/Desktop/test/fullstack/phone-book/part12-containers-applications/script-answers]1;..cript-answers[0m[27m[24m[J[01;32m➜  [36mscript-answers[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hggit remote add origin [7mhttps://github.com/harry9345/part12-containe[7mr[7ms.git[27m[K[A[47C[27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27mh[27ma[27mr[27mr[27my[27m9[27m3[27m4[27m5[27m/[27mp[27ma[27mr[27mt[27m1[27m2[27m-[27mc[27mo[27mn[27mt[27ma[27mi[27mn[27mer[27ms[27m.[27mg[27mi[27mt[?1l>[?2004l
+]2;git remote add origin https://github.com/harry9345/part12-containers.git]1;giterror: remote origin already exists.
+[1m[7m%[27m[1m[0m                                                                                                 ]2;hossein.movahed@M-64XJTF:~/Desktop/test/fullstack/phone-book/part12-containers-applications/script-answers]1;..cript-answers[0m[27m[24m[J[01;31m➜  [36mscript-answers[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h

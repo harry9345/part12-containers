@@ -747,4 +747,6 @@ bash: cd: ,,: No such file or directory
 root@86b30f93d23b:/usr# cdc  .. 
 root@86b30f93d23b:/# cd .. ,, [1P..[K,,.. node index.js[7Pcd appnode index.js        usr/src/app/index.js
 Hello, World fron index file i created
-root@86b30f93d23b:/# 
+root@86b30f93d23b:/# exit
+exit
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                        ]2;hossein.movahed@M-64XJTF:~/Desktop/test/fullstack/phone-book/part12-containers-applications/script-answers]1;..cript-answers[0m[27m[24m[J[01;32m➜  [36mscript-answers[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h
